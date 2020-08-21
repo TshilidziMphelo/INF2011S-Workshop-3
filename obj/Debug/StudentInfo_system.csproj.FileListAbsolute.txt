@@ -1,0 +1,9 @@
+C:\Users\Tshilidzi Mphelo\Documents\INF2011S\week 2\StudentInfo_system\bin\Debug\StudentInfo_system.exe.config
+C:\Users\Tshilidzi Mphelo\Documents\INF2011S\week 2\StudentInfo_system\bin\Debug\StudentInfo_system.exe
+C:\Users\Tshilidzi Mphelo\Documents\INF2011S\week 2\StudentInfo_system\bin\Debug\StudentInfo_system.pdb
+C:\Users\Tshilidzi Mphelo\Documents\INF2011S\week 2\StudentInfo_system\obj\Debug\StudentInfo_system.csprojAssemblyReference.cache
+C:\Users\Tshilidzi Mphelo\Documents\INF2011S\week 2\StudentInfo_system\obj\Debug\StudentInfo_system.Properties.Resources.resources
+C:\Users\Tshilidzi Mphelo\Documents\INF2011S\week 2\StudentInfo_system\obj\Debug\StudentInfo_system.csproj.GenerateResource.cache
+C:\Users\Tshilidzi Mphelo\Documents\INF2011S\week 2\StudentInfo_system\obj\Debug\StudentInfo_system.csproj.CoreCompileInputs.cache
+C:\Users\Tshilidzi Mphelo\Documents\INF2011S\week 2\StudentInfo_system\obj\Debug\StudentInfo_system.exe
+C:\Users\Tshilidzi Mphelo\Documents\INF2011S\week 2\StudentInfo_system\obj\Debug\StudentInfo_system.pdb
