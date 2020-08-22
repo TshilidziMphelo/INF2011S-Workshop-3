@@ -10,8 +10,33 @@ namespace StudentInfo_system.Student_Entities
     {
         #region RegisteredCourse Fields
         private int studentId;
-        private int percent;
+        private double percent;
         private string symbol;
+        private string courseDetails;
         #endregion
+
+        #region RegisteredCourse Properties
+        public int IDstudent
+        {
+            get { return studentId; }
+            set { studentId = value; }
+        }
+        public double Percent
+        {
+            get { return percent; }
+            set { percent = value; }
+        }
+        public string Symbol
+        {
+            get { return symbol; }
+            set { symbol = value; }
+        }
+        public string CourseDetails
+        {
+            get { return courseDetails; }
+            set { courseDetails = value; }
+        }
+        #region
+
     }
 }
