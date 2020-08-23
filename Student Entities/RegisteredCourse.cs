@@ -37,6 +37,20 @@ namespace StudentInfo_system.Student_Entities
             set { courseDetails = value; }
         }
         #region
-
+        #region RegisteredCourse Constructors
+        public RegisteredCourse()
+        {
+            courseDetails = null;
+            symbol = "";
+            percent = 0.0;
+        }
+        public RegisteredCourse(int id, string code, string descript, string sessionVal, int units, int sId, double p, string sym, string dets)
+            : base(id, code, descript, sessionVal, units)
+        {
+            this.studentId = sId;
+            this.percent = p;
+            this.symbol = sym;
+            this.courseDetails = dets;
+        }
     }
 }
